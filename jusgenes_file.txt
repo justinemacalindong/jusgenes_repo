@@ -1,6 +1,5 @@
 Hello!
 
-Welcome to my repo! :)
+Welcome to my repository! :)
 
-- Justine
-
+- Justine Macalindong
